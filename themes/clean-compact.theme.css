@@ -1,0 +1,13 @@
+//META{"name":"CleanCompact","description":"A dark, compact layout for those who like to save some space","author":"kettui","version":"1.7.0"}*//
+
+/*
+    Installation
+    ------------
+    1. Save this file in %appdata%/BetterDiscord/themes
+    2. Refresh Discord (ctrl+R) or simply restart it
+    3. Go to Settings > BetterDiscord > Themes and enable the theme (might need another refresh after enabling)
+
+    Changelog is in the source file
+ */
+
+@import url(https://gitcdn.xyz/repo/kettui/BetterDiscord-extensions/master/themes/clean-compact/clean-compact.css);

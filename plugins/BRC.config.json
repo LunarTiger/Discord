@@ -1,0 +1,28 @@
+{
+    "settings": {
+        "account": {
+            "discriminator": false,
+            "username": true
+        },
+        "auditLog": {
+            "discriminator": false,
+            "username": true
+        },
+        "modals": {
+            "discriminator": false,
+            "username": true
+        },
+        "modules": {
+            "botTags": true,
+            "mentions": true,
+            "typing": true,
+            "voice": true
+        },
+        "popouts": {
+            "discriminator": false,
+            "fallback": true,
+            "nickname": true,
+            "username": false
+        }
+    }
+}
