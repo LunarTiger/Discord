@@ -1,10 +1,4 @@
-<html>
-<head>
-	<style>
-		body {text-align:left;background-color: #000000;color: #fff;white-space: pre;}
-	</style>
-</head>
-<body>// Turn on Developer Mode under User Settings > Appearance > Developer Mode (at the bottom)
+// Turn on Developer Mode under User Settings > Appearance > Developer Mode (at the bottom)
 // Then open the channel you wish to delete all of the messages (could be a DM) and click the three dots on the far right.
 // Click "Copy ID" and paste that instead of LAST_MESSAGE_ID.
 // Copy / paste the below script into the JavaScript console.
@@ -36,5 +30,4 @@ clearMessages = function(){
 		}));
 	}).then(() => clearMessages());
 }
-clearMessages();</body>
-</html>
+clearMessages();
